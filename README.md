@@ -1,6 +1,6 @@
 ### Hi there 👋 My name is Ivan
 
-I am currently a student at university from Saint-Petersburg, Russia - SPbPU (Peter the Great St.Petersburg Polytechnic University).
+I am a student at university from Saint-Petersburg, Russia - SPbPU (Peter the Great St.Petersburg Polytechnic University).
 
 - 🔥 I’m currently working on my own website, Telegram bot to search for tickets for performances and some projects at the university.
 - 🌱 I’m currently learning С++, Python, Java Script.
