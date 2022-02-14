@@ -1,0 +1,21 @@
+### Hi there 👋 My name is Ivan
+
+I am currently a student at university from Saint-Petersburg, Russia - SPbPU (Peter the Great St.Petersburg Polytechnic University).
+
+- 🔥 I’m currently working on my own website, Telegram bot to search for tickets for performances and some projects at the university.
+- 🌱 I’m currently learning С++, Python, Java Script.
+- 📫 How to reach me: email: zolin5269@gmail.com or telegram https://t.me/zolin5269
+
+<!--
+**IMZolin/IMZolin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+ 
+
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
