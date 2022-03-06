@@ -1,5 +1,5 @@
-### Hi there 👋 My name is Ivan
-About me:
+# Hi there 👋 My name is Ivan
+## About me:
 
 I am a student at university from Saint-Petersburg, Russia - SPbPU (Peter the Great St.Petersburg Polytechnic University).
 
