@@ -33,8 +33,10 @@ ___
 ____
 
 ## GitHub stats:
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=IMZolin&show_icons=true&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats) 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IMZolin&exclude_repo=Theatrical-Telegram-bot,anuraghazra.github.io&layout=compact&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
+<img align="left" width="35%" src="https://github-readme-stats.vercel.app/api?username=IMZolin&show_icons=true&theme=github_dark">
+<img align="left" width="35%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IMZolin&exclude_repo=Theatrical-Telegram-bot,anuraghazra.github.io&layout=compact&theme=github_dark">
+
+
 
 [linkedin]:https://www.linkedin.com/in/ivan-zolin-4474b0233/
 [twitter]:https://twitter.com/zolin5269
