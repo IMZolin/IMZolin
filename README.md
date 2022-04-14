@@ -6,7 +6,7 @@
 
 - 🔥 I’m currently working on my own website, Telegram bot to search for tickets for performances and some projects at the university.
 - 🌱 I’m currently learning С++, Python, Java Script.
-- 📫 How to reach me: email: zolin5269@gmail.com or telegram https://t.me/zolin5269\
+- 📫 How to reach me: email: zolin5269@gmail.com or telegram https://telegram.me/zolin5269
 - ⚡ Fun fact: I like to play the piano, take pictures and travel.
 ___
 
