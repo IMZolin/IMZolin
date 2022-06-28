@@ -33,7 +33,9 @@ ___
 <br/>
 ____
 
-
+## GitHub stats:
+<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=IMZolin&show_icons=true&theme=github_dark">
+<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IMZolin&layout=compact&theme=github_dark">
 
 <!-- https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=8 -->
 
