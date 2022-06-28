@@ -4,13 +4,15 @@
 
 ### I am a student at university from Saint-Petersburg, Russia - SPbPU (Peter the Great St.Petersburg Polytechnic University).
 
-- 🔥 I’m currently working on my own website, Telegram bot to search for tickets for performances and some projects at the university.
+- 🔥 I’m currently working on my own website, some personal pet projects and some projects at the university.
 - 🌱 I’m currently learning С++, Python, Java Script.
 - 📫 How to reach me: email: zolin5269@gmail.com or telegram https://telegram.me/zolin5269
 - ⚡ Fun fact: I like to play the piano, take pictures and travel.
 ___
 
 ## Contact with me:
+[<img align ="left" width="30px" alt="IvanZolin Instagram" src="images/telegram.png"/>][telegram]
+[<img align ="left" width="30px" alt="IvanZolin Instagram" src="images/email.png"/>][email]
 [<img align ="left" width="30px" alt="IvanZolin Linkedin" src="images/linkedin.png"/>][linkedin]
 [<img align ="left" width="30px" alt="IvanZolin Twitter" src="images/twitter.png"/>][twitter]
 [<img align ="left" width="30px" alt="IvanZolin Instagram" src="images/instagram.png"/>][instagram]
@@ -41,6 +43,8 @@ ____
 
 <!-- https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=8 -->
 
+[telegram]:https://telegram.org/
+[email]:zolin5269@gmail.com
 [linkedin]:https://www.linkedin.com/in/ivan-zolin-4474b0233/
 [twitter]:https://twitter.com/zolin5269
 [instagram]:https://www.instagram.com/zolin5269/
