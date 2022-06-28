@@ -13,7 +13,7 @@ ___
 
 ## Contact with me:
 [<img align ="left" width="30px" alt="IvanZolin Instagram" src="images/telegram.png"/>][telegram]
-[<img align ="left" width="30px" alt="IvanZolin Instagram" src="images/email.png"/>]
+<img align ="left" width="30px" alt="IvanZolin Instagram" src="images/email.png"/>
 [<img align ="left" width="30px" alt="IvanZolin Linkedin" src="images/linkedin.png"/>][linkedin]
 [<img align ="left" width="30px" alt="IvanZolin Twitter" src="images/twitter.png"/>][twitter]
 [<img align ="left" width="30px" alt="IvanZolin Instagram" src="images/instagram.png"/>][instagram]
