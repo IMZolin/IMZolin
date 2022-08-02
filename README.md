@@ -5,15 +5,15 @@
 ### I am a student at university from Saint-Petersburg, Russia - SPbPU (Peter the Great St.Petersburg Polytechnic University).
 
 - 🔥 I’m currently working on my own website, some personal pet projects and some projects at the university.
-- I'm currently interesting data science, data base and web development.
-- 🌱 I’m currently learning С++, Python, Java Script.
+- I'm currently interesting data science(particularly machine learning) data base and web development.
+- 🌱 I’m currently learning Python, SQL, Java, Java Script.
 - 📫 How to reach me: email: zolin5269@gmail.com or telegram https://telegram.me/zolin5269
-- ⚡ Fun fact: I like to play the piano, take pictures and travel.
+- ⚡ Fun fact: I like to play the piano, take pictures and travel, play chess, running.
 ___
 
 ## Contact with me:
 [<img align ="left" width="30px" alt="IvanZolin Instagram" src="images/telegram.png"/>][telegram]
-<img align ="left" width="30px" alt="IvanZolin Instagram" src="images/email.png"/>
+<!-- <img align ="left" width="30px" alt="IvanZolin Instagram" src="images/email.png"/> -->
 [<img align ="left" width="30px" alt="IvanZolin Linkedin" src="images/linkedin.png"/>][linkedin]
 [<img align ="left" width="30px" alt="IvanZolin Twitter" src="images/twitter.png"/>][twitter]
 [<img align ="left" width="30px" alt="IvanZolin Instagram" src="images/instagram.png"/>][instagram]
@@ -44,7 +44,7 @@ ____
 
 <!-- https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=8 -->
 
-[telegram]:https://telegram.org/
+[telegram]:https://telegram.me/zolin5269
 [linkedin]:https://www.linkedin.com/in/ivan-zolin-4474b0233/
 [twitter]:https://twitter.com/zolin5269
 [instagram]:https://www.instagram.com/zolin5269/
