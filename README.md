@@ -12,7 +12,7 @@
 ___
 
 ## Contact with me:
-[<img align ="left" width="30px" alt="IvanZolin Instagram" src="images/telegram.png"/>][telegram]
+[<img align ="left" width="30px" alt="IvanZolin Instaggiram" src="images/telegram.png"/>][telegram]
 <!-- <img align ="left" width="30px" alt="IvanZolin Instagram" src="images/email.png"/> -->
 [<img align ="left" width="30px" alt="IvanZolin Linkedin" src="images/linkedin.png"/>][linkedin]
 [<img align ="left" width="30px" alt="IvanZolin Twitter" src="images/twitter.png"/>][twitter]
@@ -32,7 +32,6 @@ ___
 [<img align ="left" width="30px" alt="VS Code" src="images/visual-studio-code.png"/>][vs-code]
 [<img align ="left" width="30px" alt="PyCharm" src="images/PyCharm.png"/>][py-charm]
 [<img align ="left" width="30px" alt="Webstorm" src="images/webstorm.png"/>][webstorm]
-[<img align ="left" width="50px" alt="Latex" src="images/latex.png"/>][latex]
 <br/>
 ____
 
