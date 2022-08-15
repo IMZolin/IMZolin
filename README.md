@@ -20,16 +20,20 @@ ___
 <br/>
 <br/>
 
-## Language and tools:
+## Languages:
 [<img align ="left" width="30px" alt="C-programming" src="images/c-programming.png"/>][c-programming] 
 [<img align ="left" width="30px" alt="C++" src="images/c++.png"/>][c++] 
+[<img align ="left" width="30px" alt="Python" src="images/python.png"/>][python]
+[<img align ="left" width="30px" alt="Python" src="images/matlab.png"/>][matlab]
 [<img align ="left" width="30px" alt="HTML5" src="images/html-5.png"/>][html5]
 [<img align ="left" width="30px" alt="CSS3" src="images/css3.png"/>][css3]
 [<img align ="left" width="30px" alt="JavaScript" src="images/javascript.png"/>][javascript]
-[<img align ="left" width="30px" alt="Python" src="images/python.png"/>][python]
-[<img align ="left" width="30px" alt="Git" src="images/git.png"/>][git]
+<br/>
+
+## Tools:
 [<img align ="left" width="30px" alt="Visual Studio" src="images/visual-studio.png"/>][vs]
 [<img align ="left" width="30px" alt="VS Code" src="images/visual-studio-code.png"/>][vs-code]
+[<img align ="left" width="30px" alt="PyCharm" src="images/clion.png"/>][clion]
 [<img align ="left" width="30px" alt="PyCharm" src="images/PyCharm.png"/>][py-charm]
 [<img align ="left" width="30px" alt="Webstorm" src="images/webstorm.png"/>][webstorm]
 <br/>
@@ -53,9 +57,11 @@ ____
 [css3]:https://www.w3schools.com/css/
 [javascript]:https://www.w3schools.com/js/
 [python]:https://www.python.org/
+[matlab]:https://www.mathworks.com/products/matlab.html
 [git]:https://git-scm.com/
 [vs]:https://visualstudio.microsoft.com/
 [vs-code]:https://code.visualstudio.com/
+[clion]:https://www.jetbrains.com/clion/
 [py-charm]:https://www.jetbrains.com/ru-ru/pycharm/
 [webstorm]:https://www.jetbrains.com/webstorm/
 [latex]:https://www.tug.org/begin.html
