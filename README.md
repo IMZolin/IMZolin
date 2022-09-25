@@ -4,7 +4,7 @@
 
 ### I am a student at university from Saint-Petersburg, Russia - SPbPU (Peter the Great St.Petersburg Polytechnic University).
 
-- 🔥 I’m currently working on my own website, some personal pet projects and some projects at the university.
+- 🔥 I’m currently working on Culture magazine "[The_Gluck]" to novice journalists, my own [Website], some personal pet projects and some projects at the university.
 - ✨I'm currently interesting data science(particularly machine learning), data base and web development.
 - 🌱 I’m currently learning Spring, Python, SQL, Java, Java Script.
 - 📫 How to reach me: email: zolin5269@gmail.com or telegram https://telegram.me/zolin5269
@@ -17,7 +17,6 @@ ___
 [<img align ="left" width="30px" alt="IvanZolin Linkedin" src="images/linkedin.png"/>][linkedin]
 [<img align ="left" width="30px" alt="IvanZolin Twitter" src="images/twitter.png"/>][twitter]
 <!-- [<img align ="left" width="30px" alt="IvanZolin Instagram" src="images/instagram.png"/>][instagram] -->
-<br/>
 <br/>
 
 ## Languages:
@@ -42,11 +41,12 @@ ____
 ## GitHub stats:
 <div display="inline-flex" align-items="center" justify-content="space-between">
 <img src="https://github-readme-stats.vercel.app/api?username=IMZolin&show_icons=true&bg_color=151515&title_color=fff&text_color=ffffff&icon_color=0b92f8&border_color=0b92f8&border_radius=30&count_private=true&locale=en&include_all_commits=true" width="47%"alt="IMZolin" />
-<!-- <img src="https://github-readme-stats.vercel.app/api/top-langs?username=IMZolin&bg_color=151515&title_color=fff&text_color=ffffff&icon_color=0b92f8&border_color=0b92f8&border_radius=30&layout=compact&card_width =350&langs_count=10&hide=CMake,Makefile,Arc,PowerShell,BatchFile,HTML&locale=en" width="47%"alt="IMZolin" /> -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=IMZolin&bg_color=151515&title_color=fff&text_color=ffffff&icon_color=0b92f8&border_color=0b92f8&border_radius=30&layout=compact&card_width =350&langs_count=10&hide=CMake,Makefile,Arc,PowerShell,BatchFile,HTML&locale=en" width="47%"alt="IMZolin" />
 </div>
 
 <!-- https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=8 -->
-
+[The_Gluck]:https://github.com/IMZolin/The-Gluck-magazine
+[Website]:https://github.com/IMZolin/Website
 [telegram]:https://telegram.me/zolin5269
 [linkedin]:https://www.linkedin.com/in/ivan-zolin-4474b0233/
 [twitter]:https://twitter.com/zolin5269
