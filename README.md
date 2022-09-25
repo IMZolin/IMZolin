@@ -41,7 +41,7 @@ ____
 ## GitHub stats:
 <div display="inline-flex" align-items="center" justify-content="space-between">
 <img src="https://github-readme-stats.vercel.app/api?username=IMZolin&show_icons=true&bg_color=151515&title_color=fff&text_color=ffffff&icon_color=0b92f8&border_color=0b92f8&border_radius=30&count_private=true&locale=en&include_all_commits=true" width="47%"alt="IMZolin" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=IMZolin&bg_color=151515&title_color=fff&text_color=ffffff&icon_color=0b92f8&border_color=0b92f8&border_radius=30&layout=compact&card_width =350&langs_count=10&hide=CMake,Makefile,Arc,PowerShell,BatchFile,HTML&locale=en" width="47%"alt="IMZolin" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IMZolin&layout=compact&bg_color=151515&title_color=fff&text_color=ffffff&icon_color=0b92f8&border_color=0b92f8&border_radius=30"/>
 </div>
 
 <!-- https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=8 -->
