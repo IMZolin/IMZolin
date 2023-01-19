@@ -27,14 +27,18 @@ ___
 [<img align ="left" width="30px" alt="HTML5" src="images/html-5.png"/>][html5]
 [<img align ="left" width="30px" alt="CSS3" src="images/css3.png"/>][css3]
 [<img align ="left" width="30px" alt="JavaScript" src="images/javascript.png"/>][javascript]
+[<img align ="left" width="40px" alt="JavaScript" src="images/java.jpg"/>][java]
 <br/>
 
-## Tools:
-[<img align ="left" width="30px" alt="Visual Studio" src="images/visual-studio.png"/>][vs]
-[<img align ="left" width="30px" alt="VS Code" src="images/visual-studio-code.png"/>][vs-code]
-[<img align ="left" width="30px" alt="PyCharm" src="images/clion.png"/>][clion]
-[<img align ="left" width="30px" alt="PyCharm" src="images/PyCharm.png"/>][py-charm]
-[<img align ="left" width="30px" alt="Webstorm" src="images/webstorm.png"/>][webstorm]
+## Tools, databases, frameworks and texnlogies:
+[<img align ="left" width="30px" alt="Visual Studio" src="images/git.png"/>][git]
+[<img align ="left" width="40px" alt="Visual Studio" src="images/docker.jpg"/>][docker]
+[<img align ="left" width="40px" alt="Visual Studio" src="images/postgres.jpg"/>][postgres]
+[<img align ="left" width="30px" alt="Visual Studio" src="images/postman.png"/>][postman]
+[<img align ="left" width="50px" alt="VS Code" src="images/latex.png"/>][latex]
+[<img align ="left" width="50px" alt="VS Code" src="images/spring.jpg"/>][spring]
+[<img align ="left" width="30px" alt="VS Code" src="images/vue.png"/>][vue]
+[<img align ="left" width="30px" alt="VS Code" src="images/react.png"/>][react]
 <br/>
 ____
 
@@ -47,10 +51,12 @@ ____
 <!-- https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=8 -->
 [The_Gluck]:https://github.com/IMZolin/The-Gluck-magazine
 [Website]:https://github.com/IMZolin/Website
+
 [telegram]:https://telegram.me/zolin5269
 [linkedin]:https://www.linkedin.com/in/ivan-zolin-4474b0233/
 [twitter]:https://twitter.com/zolin5269
 [instagram]:https://www.instagram.com/zolin5269/
+
 [c-programming]:https://www.cprogramming.com/
 [c++]:https://www.w3schools.com/cpp/default.[html5]asp
 [html5]:https://www.w3schools.com/html/
@@ -58,13 +64,22 @@ ____
 [javascript]:https://www.w3schools.com/js/
 [python]:https://www.python.org/
 [matlab]:https://www.mathworks.com/products/matlab.html
+[java]:https://www.java.com/ru/
+
 [git]:https://git-scm.com/
+[docker]:https://www.docker.com/
+[latex]:https://www.tug.org/begin.html
+[postgres]:https://www.postgresql.org/
+[postman]:https://www.postman.com/
+[spring]:https://spring.io/
+[vue]:https://vuejs.org/
+[react]:https://reactjs.org/
+
 [vs]:https://visualstudio.microsoft.com/
 [vs-code]:https://code.visualstudio.com/
 [clion]:https://www.jetbrains.com/clion/
 [py-charm]:https://www.jetbrains.com/ru-ru/pycharm/
 [webstorm]:https://www.jetbrains.com/webstorm/
-[latex]:https://www.tug.org/begin.html
 <!--
 **IMZolin/IMZolin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
