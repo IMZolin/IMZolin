@@ -4,10 +4,10 @@
 
 ### I am a student at university from Saint-Petersburg, Russia - SPbPU (Peter the Great St.Petersburg Polytechnic University).
 
-- 🔥 I’m currently working on Culture magazine "[The_Gluck]" to novice journalists, my own [Website], some personal pet projects and some projects at the university.
-- ✨I'm currently interesting data science(particularly machine learning), data base and web development.
-- 🌱 I’m currently learning Spring, Python, SQL, Java, Java Script.
-- 📫 How to reach me: email: zolin5269@gmail.com or telegram https://telegram.me/zolin5269
+- 🔥 I’m currently working on Culture magazine "[The_Gluck]" to novice journalists, my own [Website], [Wanderlust_bot] other personal pet projects and some projects at the university.
+- ✨I'm currently interesting data science(particularly machine learning), web development(MERN stack or Spring+Vue).
+- 🌱 I’m currently learning Python (+Django), SQL, ML, DL, Java Script, Linux.
+- 📫 How to reach me - email: zolin5269@gmail.com or telegram https://telegram.me/zolin5269
 - ⚡ Fun fact: I like to play the piano, take pictures and travel, play chess, running.
 ___
 
@@ -49,8 +49,9 @@ ____
 </div>
 
 <!-- https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=8 -->
-[The_Gluck]:https://github.com/IMZolin/The-Gluck-magazine
+[The_Gluck]:https://github.com/IMZolin/The-Gluck
 [Website]:https://github.com/IMZolin/Website
+[Wanderlust_bot]:https://github.com/IMZolin/Wanderlust-bot
 
 [telegram]:https://telegram.me/zolin5269
 [linkedin]:https://www.linkedin.com/in/ivan-zolin-4474b0233/
