@@ -27,15 +27,15 @@ ___
 [<img align ="left" width="30px" alt="HTML5" src="images/html-5.png"/>][html5]
 [<img align ="left" width="30px" alt="CSS3" src="images/css3.png"/>][css3]
 [<img align ="left" width="30px" alt="JavaScript" src="images/javascript.png"/>][javascript]
-[<img align ="left" width="40px" alt="JavaScript" src="images/java.jpg"/>][java]
+[<img align ="left" width="30px" alt="JavaScript" src="images/java.png"/>][java]
 <br/>
 
 ## Tools, databases, frameworks and texnlogies:
 [<img align ="left" width="30px" alt="Visual Studio" src="images/git.png"/>][git]
-[<img align ="left" width="40px" alt="Visual Studio" src="images/docker.jpg"/>][docker]
-[<img align ="left" width="40px" alt="Visual Studio" src="images/postgres.jpg"/>][postgres]
+[<img align ="left" width="30px" alt="Visual Studio" src="images/docker.png"/>][docker]
+[<img align ="left" width="30px" alt="Visual Studio" src="images/postgres.png"/>][postgres]
 [<img align ="left" width="30px" alt="Visual Studio" src="images/postman.png"/>][postman]
-[<img align ="left" width="50px" alt="VS Code" src="images/latex.png"/>][latex]
+[<img align ="left" width="30px" alt="VS Code" src="images/tex.png"/>][latex]
 [<img align ="left" width="50px" alt="VS Code" src="images/spring.jpg"/>][spring]
 [<img align ="left" width="30px" alt="VS Code" src="images/vue.png"/>][vue]
 [<img align ="left" width="30px" alt="VS Code" src="images/react.png"/>][react]
@@ -45,7 +45,7 @@ ____
 ## GitHub stats:
 <div display="inline-flex" align-items="center" justify-content="space-between">
 <img src="https://github-readme-stats.vercel.app/api?username=IMZolin&show_icons=true&bg_color=151515&title_color=fff&text_color=ffffff&icon_color=0b92f8&border_color=0b92f8&border_radius=30&count_private=true&locale=en&include_all_commits=true" width="47%"alt="IMZolin" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IMZolin&layout=compact&bg_color=151515&title_color=fff&text_color=ffffff&icon_color=0b92f8&border_color=0b92f8&border_radius=30"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IMZolin&hide=tex&layout=compact&bg_color=151515&title_color=fff&text_color=ffffff&icon_color=0b92f8&border_color=0b92f8 border_radius=30 "/>
 </div>
 
 <!-- https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=8 -->
