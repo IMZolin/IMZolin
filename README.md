@@ -5,40 +5,42 @@
 ### I am a student at university from Saint-Petersburg, Russia - SPbPU (Peter the Great St.Petersburg Polytechnic University).
 
 - 🔥 I’m currently working on Culture magazine "[The_Gluck]" to novice journalists, my own [Website], [Wanderlust_bot] other personal pet projects and some projects at the university.
-- ✨I'm currently interesting data science(particularly machine learning), web development(MERN stack or Spring+Vue).
+- ✨I'm currently interesting data science(particularly machine learning), web development(PERN stack or something else).
 - 🌱 I’m currently learning Python (+Django), SQL, ML, DL, Java Script, Linux.
 - 📫 How to reach me - email: zolin5269@gmail.com or telegram https://telegram.me/zolin5269
 - ⚡ Fun fact: I like to play the piano, take pictures and travel, play chess, running.
-___
+<br/>
+____
 
 ## Contact with me:
 [<img align ="left" width="30px" alt="IvanZolin Instaggiram" src="images/telegram.png"/>][telegram]
-<!-- <img align ="left" width="30px" alt="IvanZolin Instagram" src="images/email.png"/> -->
+[<img align ="left" width="30px" alt="IvanZolin Instagram" src="images/instagram.png"/>][instagram]
 [<img align ="left" width="30px" alt="IvanZolin Linkedin" src="images/linkedin.png"/>][linkedin]
 [<img align ="left" width="30px" alt="IvanZolin Twitter" src="images/twitter.png"/>][twitter]
-<!-- [<img align ="left" width="30px" alt="IvanZolin Instagram" src="images/instagram.png"/>][instagram] -->
 <br/>
+____
 
 ## Languages:
 [<img align ="left" width="30px" alt="C-programming" src="images/c-programming.png"/>][c-programming] 
 [<img align ="left" width="30px" alt="C++" src="images/c++.png"/>][c++] 
 [<img align ="left" width="30px" alt="Python" src="images/python.png"/>][python]
+[<img align ="left" width="30px" alt="JavaScript" src="images/javascript.png"/>][javascript]
 [<img align ="left" width="30px" alt="Python" src="images/matlab.png"/>][matlab]
 [<img align ="left" width="30px" alt="HTML5" src="images/html-5.png"/>][html5]
 [<img align ="left" width="30px" alt="CSS3" src="images/css3.png"/>][css3]
-[<img align ="left" width="30px" alt="JavaScript" src="images/javascript.png"/>][javascript]
 [<img align ="left" width="30px" alt="JavaScript" src="images/java.png"/>][java]
 <br/>
+____
 
-## Tools, databases, frameworks and texnlogies:
-[<img align ="left" width="30px" alt="Visual Studio" src="images/git.png"/>][git]
-[<img align ="left" width="30px" alt="Visual Studio" src="images/docker.png"/>][docker]
-[<img align ="left" width="30px" alt="Visual Studio" src="images/postgres.png"/>][postgres]
-[<img align ="left" width="30px" alt="Visual Studio" src="images/postman.png"/>][postman]
-[<img align ="left" width="30px" alt="VS Code" src="images/tex.png"/>][latex]
-[<img align ="left" width="50px" alt="VS Code" src="images/spring.jpg"/>][spring]
-[<img align ="left" width="30px" alt="VS Code" src="images/vue.png"/>][vue]
-[<img align ="left" width="30px" alt="VS Code" src="images/react.png"/>][react]
+## Tools, databases, frameworks and technlogies:
+[<img align ="left" width="30px" alt="Git" src="images/git.png"/>][git]
+[<img align ="left" width="30px" alt="Docker" src="images/docker.png"/>][docker]
+[<img align ="left" width="30px" alt="Postgres" src="images/postgres.png"/>][postgres]
+[<img align ="left" width="30px" alt="Postgres" src="images/postman.png"/>][postman]
+[<img align ="left" width="30px" alt="React" src="images/react.png"/>][react]
+[<img align ="left" width="30px" alt="React" src="images/spring2.jpg"/>][spring]
+[<img align ="left" width="30px" alt="React" src="images/tex.png"/>][latex]
+[<img align ="left" width="30px" alt="Vue" src="images/vue.png"/>][vue]
 <br/>
 ____
 
