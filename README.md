@@ -9,7 +9,6 @@
 - 🌱 I’m currently learning Python (+Django), SQL, ML, DL, Java Script, Linux.
 - 📫 How to reach me - email: zolin5269@gmail.com or telegram https://telegram.me/zolin5269
 - ⚡ Fun fact: I like to play the piano, take pictures and travel, play chess, running.
-<br/>
 ____
 
 ## Contact with me:
@@ -50,7 +49,6 @@ ____
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IMZolin&layout=compact&bg_color=151515&title_color=fff&text_color=ffffff&icon_color=0b92f8&border_color=0b92f8&border_radius=30&&hide=tex "/>
 </div>
 
-<!-- https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=8 -->
 [The_Gluck]:https://github.com/IMZolin/The-Gluck
 [Website]:https://github.com/IMZolin/Website
 [Wanderlust_bot]:https://github.com/IMZolin/Wanderlust-bot
