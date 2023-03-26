@@ -31,7 +31,7 @@ ____
 <br/>
 ____
 
-## Tools, databases, frameworks and technlogies:
+## Tools, databases, frameworks and technologies:
 [<img align ="left" width="30px" alt="Git" src="images/git.png"/>][git]
 [<img align ="left" width="30px" alt="Docker" src="images/docker.png"/>][docker]
 [<img align ="left" width="30px" alt="Postgres" src="images/postgres.png"/>][postgres]
