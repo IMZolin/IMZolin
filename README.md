@@ -4,7 +4,7 @@
 
 ### I work in the Laboratory of Molecular neurodegeneration at SPbPU (Peter the Great St. Petersburg Polytechnic University).
 
-- 🔥 I’m currently working on [PSF interface] (private, R&D work, interface for user interaction with the application to improve the quality of microscope images through deconvolution), on the stratup B2Sell(tech lead and DS engineer + backend developer), my own [Website], [Wanderlust_bot], my own startup and other commercial projects (orders), scientific events, pet projects and some projects at the university.
+- 🔥 I’m currently working on [PSF interface] (private, R&D work, interface for user interaction with the application to improve the quality of microscope images through deconvolution), on the stratup B2Sell(tech lead and DS engineer + backend developer), my own [Website], [ToDoList_bot] (open-source project), my own startup and other commercial projects (orders), scientific events, pet projects and some projects at the university.
 - ✨I'm currently interesting R&D work, data science(particularly ML, DL, NLP), web development(Django+React+Postgres stack).
 - 🌱 I’m currently learning Python, Jupyter Notebook, SQL, Java Script, Linux.
 - 📫 How to reach me - [email] or [telegram] 
@@ -57,7 +57,7 @@ ____
 
 [PSF interface]:https://github.com/IMZolin/frt23-3d-interface
 [Website]:https://github.com/IMZolin/Website
-[Wanderlust_bot]:https://github.com/IMZolin/Wanderlust-bot
+[ToDoList_bot]:https://github.com/IMZolin/Todolist-Telegram-bot
 
 [telegram]:https://telegram.me/zolin5269
 [linkedin]:https://www.linkedin.com/in/ivan-zolin-4474b0233/
