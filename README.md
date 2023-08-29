@@ -4,12 +4,13 @@
 
 ### I work in the Laboratory of Molecular neurodegeneration at SPbPU (Peter the Great St. Petersburg Polytechnic University).
 
-- 🔥 I’m currently working on [PSF interface] (private, R&D work, interface for user interaction with the application to improve the quality of microscope images through deconvolution), on the stratup B2Sell(tech lead and DS engineer + backend developer), my own [Website], [ToDoList_bot] (open-source project), my own startup and other commercial projects (orders), scientific events, pet projects and some projects at the university.
+- 🔥 I’m currently working on [PSF interface] (private, R&D work, interface for user interaction with the application to improve the quality of microscope images through deconvolution), on the stratup B2Sell(Tech Lead and DS engineer + backend developer), [ToDoList_bot] (open-source project), my own startup and other commercial projects (orders), scientific events, pet projects and some projects at the university.
 - ✨I'm currently interesting R&D work, data science(particularly ML, DL, NLP), web development(Django+React+Postgres stack).
-- 🌱 I’m currently learning Python, Jupyter Notebook, SQL, Java Script, Linux.
+- 🌱 I’m currently learning Statistics, Jupyter Notebook, SQL, Linux.
 - 📫 How to reach me - [email] or [telegram] 
-- 🗒️ My CV: https://www.overleaf.com/read/fbkkfpcgggvn
-- ⚡ Fun fact: I like to play the piano, take pictures and travel, play chess, running.
+- 🗒️ My CV: <https://github.com/IMZolin/Resume/blob/master/resume_eng.pdf>
+- ⚡ Fun fact: I like to play the piano, read, travel, play sports.
+
 ____
 
 ## Contact with me:
