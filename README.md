@@ -4,7 +4,7 @@
 
 ### I work in the Laboratory of Molecular neurodegeneration and stusy in the 4th year at SPbSTU (Peter the Great St. Petersburg Polytechnic University).
 
-- 🔥 I’m currently working on [PSF interface] (private, R&D work, interface for user interaction with the application to improve the quality of microscope images through deconvolution), on the stratup B2Sell(Tech Lead and DS engineer + backend developer), [ToDoList_bot] (open-source project), my own startup and other commercial projects (orders), scientific events, pet projects and some projects at the university.
+- 🔥 I’m currently working on [PSF interface] (private, R&D work, interface for user interaction with the application to improve the quality of microscope images through deconvolution), my own startup and other commercial projects (orders), scientific events, pet projects and some projects at the university.
 - ✨I'm currently interesting R&D work, data science(particularly ML, DL, NLP), web development(Django+React+Postgres stack).
 - 🌱 I’m currently learning Statistics, Jupyter Notebook, SQL, Linux.
 - 📫 How to reach me - [email] or [telegram] 
@@ -94,7 +94,7 @@ ____
 [clion]:https://www.jetbrains.com/clion/
 [py-charm]:https://www.jetbrains.com/ru-ru/pycharm/
 [webstorm]:https://www.jetbrains.com/webstorm/
-[email]:mailto:<zolin5269@gmail.com>
+[email]:mailto:<zolin.work@yandex.ru>
 <!--:
 **IMZolin/IMZolin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
