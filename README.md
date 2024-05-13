@@ -4,13 +4,14 @@
 
 ### I work in the Laboratory of Molecular neurodegeneration and stusy in the 4th year at SPbSTU (Peter the Great St. Petersburg Polytechnic University).
 
-- 🔥 I’m currently working in the Laboratory of Molecular neurodegeneration on a web service (ReactJS, Django, Docker, Redis) with built-in ML+DL algorithms to improve the quality of images from a microscope, my own startup and other commercial projects (orders), scientific events, pet projects and some projects at the university.
+- 🔥 I’m currently working in the Laboratory of Molecular neurodegeneration on a web service (ReactJS, Django, Docker, Redis) with built-in ML+DL algorithms to improve the quality of images from a microscope.
+- ⚡ Also I'm working on my own startup and other commercial projects (orders), scientific events, pet projects and some projects at the university.
 - ✨I'm currently interesting R&D work, data science(particularly NLP, Computer Vision), MLOps, web development(Django+React+Postgres stack).
 - 🌱 I’m currently learning Statistics, Algorithms, SQL.
 - 📫 How to reach me - [email] or [telegram].
 - 🗒️ My english CV: <https://github.com/IMZolin/Resume/blob/master/resume_eng.pdf>
 - 🗒️ My russian CV: <https://github.com/IMZolin/Resume/blob/master/resume_ru.pdf>
-- ⚡ Fun fact: I like to play the piano, read, travel, play sports.
+- 🙌 Fun fact: I like to play the piano, read, travel, play sports.
 
 ____
 
@@ -21,7 +22,6 @@ ____
 [<img align ="left" width="30px" alt="JavaScript" src="images/javascript.png"/>][javascript]
 [<img align ="left" width="30px" alt="Latex" src="images/tex.png"/>][latex]
 [<img align ="left" width="30px" alt="Java" src="images/java.png"/>][java]
-____
 
 ## Tools, databases, frameworks and technologies:
 [<img align ="left" width="30px" alt="Numpy" src="images/numpy.png"/>][numpy]
@@ -94,5 +94,5 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 
 - 😄 Pronouns: ...
-- 
+- 🙌
 -->
