@@ -22,6 +22,7 @@ ____
 [<img align ="left" width="30px" alt="JavaScript" src="images/javascript.png"/>][javascript]
 [<img align ="left" width="30px" alt="Latex" src="images/tex.png"/>][latex]
 [<img align ="left" width="30px" alt="Java" src="images/java.png"/>][java]
+<br/>
 
 ## Tools, databases, frameworks and technologies:
 [<img align ="left" width="30px" alt="Numpy" src="images/numpy.png"/>][numpy]
