@@ -9,8 +9,7 @@
 - ✨I'm currently interesting R&D work, data science(particularly NLP, Computer Vision), MLOps, web development(Django+React+Postgres stack).
 - 🌱 I’m currently learning Statistics, Algorithms, SQL.
 - 📫 How to reach me - [email] or [telegram].
-- 🗒️ My english CV: <https://github.com/IMZolin/Resume/blob/master/resume_eng.pdf>
-- 🗒️ My russian CV: <https://github.com/IMZolin/Resume/blob/master/resume_ru.pdf>
+- 🗒️ My CV: <https://github.com/IMZolin/Resume/blob/master/cv.pdf>
 - 🙌 Fun fact: I like to play the piano, read, travel, play sports.
 
 ____
