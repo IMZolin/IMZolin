@@ -10,9 +10,10 @@
 - How to reach me - [email] or [telegram].
 - Fun fact: I like to play the piano, read, travel, play sports.
 
-<div style="display: flex; justify-content: space-between;">
+## SKills
+<div style="display: flex;">
     <div style="flex: 1; margin-right: 10px; max-width: 30%">
-        <h2 style="margin-bottom: 10px;">Languages</h2>
+        <h3 style="margin-bottom: 10px;">Languages</h3>
         <div style="display: flex;">
             <div style="flex: 1; margin-right: 10px;">
                 <ul style="list-style-type: none; padding: 0;">
@@ -31,7 +32,7 @@
         </div>
     </div>
     <div style="flex: 1;">
-        <h2 style="margin-bottom: 10px;">Tools & Libs</h2>
+        <h3 style="margin-bottom: 10px;">Tools & Libs</h3>
         <div style="display: flex;">
             <div style="flex: 1; margin-right: 10px;">
                 <ul style="list-style-type: none; padding: 0;">
