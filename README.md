@@ -2,41 +2,73 @@
 ![](https://komarev.com/ghpvc/?username=IMZolin&color=green)
 ## About me:
 
-### I work in the Laboratory of Molecular neurodegeneration and stusy in the 4th year at SPbSTU (Peter the Great St. Petersburg Polytechnic University).
+- I have Bachelor's degree in Applied math and Computer Science from SPbSTU (Peter the Great St. Petersburg Polytechnic University). 
+- I'm pursuing a master's degree in Deep Learning and Generative AI from ITMO.
+- I have 2+ years of experience in industrial-scientific developmentь in Data Science (Computer Vision, NLP, MLOps).
+- I work in the Laboratory of Biomedical Image and Data Analysis at SPbSTU, and have completed 3+ ML/DL research projects. 
+- I’m looking to collaborate with ambitious employees from RnD departments, startups, science centers, laboratories, universities.
+- How to reach me - [email] or [telegram].
+- Fun fact: I like to play the piano, read, travel, play sports.
 
-- 🔥 I’m currently working in the Laboratory of Molecular neurodegeneration on a web service (ReactJS, Django, Docker, Redis) with built-in ML+DL algorithms to improve the quality of images from a microscope.
-- ⚡ Also I'm working on my own startup and other commercial projects (orders), scientific events, pet projects and some projects at the university.
-- ✨I'm currently interesting R&D work, data science(particularly NLP, Computer Vision), MLOps, web development(Django+React+Postgres stack).
-- 🌱 I’m currently learning Statistics, Algorithms, SQL.
-- 📫 How to reach me - [email] or [telegram].
-- 🗒️ My CV: <https://github.com/IMZolin/Resume/blob/master/cv.pdf>
-- 🙌 Fun fact: I like to play the piano, read, travel, play sports.
+<div style="display: flex; justify-content: space-between;">
+    <div style="flex: 1; margin-right: 10px; max-width: 30%">
+        <h2 style="margin-bottom: 10px;">Languages</h2>
+        <div style="display: flex;">
+            <div style="flex: 1; margin-right: 10px;">
+                <ul style="list-style-type: none; padding: 0;">
+                    <li>Python <a href="https://www.python.org/"><img align="center" width="30px" alt="Python" src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png"/></a></li>
+                    <li>C <a href="https://devdocs.io/c/"><img align="center" width="30px" alt="C-programming" src="https://img.icons8.com/?size=100&id=40670&format=png&color=000000"/></a></li>
+                    <li>C++ <a href="https://isocpp.org/"><img align="center" width="30px" alt="C++" src="https://img.icons8.com/?size=100&id=40669&format=png&color=000000"/></a></li>
+                </ul>
+            </div>
+            <div style="flex: 1;">
+                <ul style="list-style-type: none; padding: 0;">
+                    <li>JavaScript <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img align="center" width="30px" alt="JavaScript" src="https://img.icons8.com/?size=100&id=108784&format=png&color=000000"/></a></li>
+                    <li>SQL <a href="https://www.postgresql.org/docs/current/sql.html"><img align="center" width="30px" alt="SQL" src="https://img.icons8.com/?size=100&id=UFF3hmipmJ2V&format=png&color=000000"/></a></li>
+                    <li>LaTex (Tex) <a href="https://www.latex-project.org/"><img align="center" width="30px" alt="LaTex" src="https://img.icons8.com/?size=100&id=WBooq2dInw0x&format=png&color=000000"/></a></li>
+                </ul>
+            </div>
+        </div>
+    </div>
+    <div style="flex: 1;">
+        <h2 style="margin-bottom: 10px;">Tools & Libs</h2>
+        <div style="display: flex;">
+            <div style="flex: 1; margin-right: 10px;">
+                <ul style="list-style-type: none; padding: 0;">
+                    <li>OpenCV <a href="https://opencv.org/"><img align="center" width="30px" alt="OpenCV" src="https://img.icons8.com/?size=100&id=bpip0gGiBLT1&format=png&color=000000"/></a></li>
+                    <li>PyTorch <a href="https://pytorch.org/"><img align="center" width="30px" alt="PyTorch" src="https://img.icons8.com/?size=100&id=jH4BpkMnRrU5&format=png&color=000000"/></a></li>
+                    <li>TensorFlow <a href="https://www.tensorflow.org/"><img align="center" width="30px" alt="TensorFlow" src="https://img.icons8.com/?size=100&id=n3QRpDA7KZ7P&format=png&color=000000"/></a></li>
+                    <li>NLTK <a href="https://www.nltk.org/"><img align="center" width="20px" alt="NLTK" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThLDIOl5UsgG306YzmcNgkaMfo5yQj1ciIpg&s"/></a></li>
+                </ul>
+            </div>
+            <div style="flex: 1; margin-right: 10px;">
+                <ul style="list-style-type: none; padding: 0;">
+                    <li>Scikit-learn <a href="https://scikit-learn.org"><img align="center" width="30px" alt="Scikit-learn" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/2560px-Scikit_learn_logo_small.svg.png"/></a></li>
+                    <li>Numpy <a href="https://numpy.org/"><img align="center" width="25px" alt="Numpy" src="https://static-00.iconduck.com/assets.00/file-type-numpy-icon-1901x2048-oulkqypt.png"/></a></li>
+                    <li>Pandas <a href="https://pandas.pydata.org/"><img align="center" width="20px" alt="Pandas" src="https://seeklogo.com/images/P/pandas-icon-logo-BE10401BF1-seeklogo.com.png"/></a></li>
+                    <li>Beautiful Soup <a href="https://www.crummy.com/software/BeautifulSoup/bs4/doc/"><img align="center" width="60px" alt="Beautiful Soup" src="https://datascientest.com/en/files/2024/01/beautiful-soup.png"/></a></li>
+                </ul>
+            </div>
+            <div style="flex: 1; margin-right: 10px;">
+                <ul style="list-style-type: none; padding: 0;">
+                    <li>Docker <a href="https://www.docker.com/"><img align="center" width="30px" alt="OpenCV" src="https://img.icons8.com/?size=100&id=cdYUlRaag9G9&format=png&color=000000"/></a></li>
+                    <li>PostgreSQL <a href="https://www.postgresql.org/"><img align="center" width="30px" alt="PostgreSQL" src="https://img.icons8.com/?size=100&id=38561&format=png&color=000000"/></a></li>
+                    <li>Redis <a href="https://redis.io/"><img align="center" width="30px" alt="LaTex" src="https://img.icons8.com/?size=100&id=pHS3eRpynIRQ&format=png&color=000000"/></a></li>
+                    <li>Celery <a href="https://docs.celeryq.dev/en/stable/"><img align="center" width="30px" alt="LaTex" src="https://img.icons8.com/?size=100&id=WBooq2dInw0x&format=png&color=000000"/></a></li>
+                </ul>
+            </div>
+            <div style="flex: 1; margin-right: 10px;">
+                <ul style="list-style-type: none; padding: 0;">
+                    <li>Aiogram <a href="https://aiogram.dev/"><img align="center" width="30px" alt="Numpy" src="https://avatars.githubusercontent.com/u/33784865?s=200&v=4"/></a></li>
+                    <li>Django <a href="https://www.djangoproject.com/"><img align="center" width="30px" alt="Django" src="https://www.svgrepo.com/show/353657/django-icon.svg"/></a></li>
+                    <li>FastAPI <a href="https://fastapi.tiangolo.com/"><img align="center" width="30px" alt="LaTex" src="https://img.icons8.com/?size=100&id=pHS3eRpynIRQ&format=png&color=000000"/></a></li>
+                    <li>ReactJS <a href="https://react.dev/"><img align="center" width="30px" alt="LaTex" src="https://img.icons8.com/?size=100&id=WBooq2dInw0x&format=png&color=000000"/></a></li>
+                </ul>
+            </div>
+        </div>
+    </div>
+</div>
 
-____
-
-## Languages:
-[<img align ="left" width="30px" alt="Python" src="images/python.png"/>][python]
-[<img align ="left" width="30px" alt="C-programming" src="images/c-programming.png"/>][c-programming] 
-[<img align ="left" width="30px" alt="C++" src="images/c++.png"/>][c++] 
-[<img align ="left" width="30px" alt="JavaScript" src="images/javascript.png"/>][javascript]
-[<img align ="left" width="30px" alt="Latex" src="images/tex.png"/>][latex]
-[<img align ="left" width="30px" alt="Java" src="images/java.png"/>][java]
-<br/>
-
-## Tools, databases, frameworks and technologies:
-[<img align ="left" width="30px" alt="Numpy" src="images/numpy.png"/>][numpy]
-[<img align ="left" width="30px" alt="Pandas" src="images/pandas.png"/>][pandas]
-[<img align ="left" width="30px" alt="Git" src="images/git.png"/>][git]
-[<img align ="left" width="30px" alt="Docker" src="images/docker.png"/>][docker]
-[<img align ="left" width="30px" alt="Postgres" src="images/postgres.png"/>][postgres]
-[<img align ="left" width="30px" alt="Django" src="images/django.png"/>][django]
-[<img align ="left" width="30px" alt="React" src="images/react.png"/>][react]
-[<img align ="left" width="30px" alt="Redis" src="images/redis.png"/>][redis]
-[<img align ="left" width="45px" alt="Celery" src="images/celery.png"/>][celery]
-[<img align ="left" width="30px" alt="Spring" src="images/spring.png"/>][spring]
-[<img align ="left" width="30px" alt="Vue" src="images/vue.png"/>][vue]
-[<img align ="left" width="30px" alt="Postman" src="images/postman.png"/>][postman]
-<br/>
 ____
 
 ## GitHub stats:
@@ -45,54 +77,5 @@ ____
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IMZolin&layout=compact&bg_color=151515&title_color=fff&text_color=ffffff&icon_color=0b92f8&border_color=0b92f8&border_radius=30&hide=tex,html&exclude_repo=imzolin.github.io,Attribute-grammars,simple_psf_extractor,Interval-analysis,Computer-graphics"/>
 </div>
 
-[PSF interface]:https://github.com/IMZolin/frt23-3d-interface
-[Website]:https://github.com/IMZolin/Website
-[ToDoList_bot]:https://github.com/IMZolin/Todolist-Telegram-bot
-
-[telegram]:https://telegram.me/zolin5269
-[linkedin]:https://www.linkedin.com/in/ivan-zolin-4474b0233/
-[twitter]:https://twitter.com/zolin5269
-[instagram]:https://www.instagram.com/zolin5269/
-
-[c-programming]:https://www.cprogramming.com/
-[c++]:https://www.w3schools.com/cpp/default.[html5]asp
-[html5]:https://www.w3schools.com/html/
-[css3]:https://www.w3schools.com/css/
-[javascript]:https://www.w3schools.com/js/
-[python]:https://www.python.org/
-[matlab]:https://www.mathworks.com/products/matlab.html
-[java]:https://www.java.com/ru/
-
-[git]:https://git-scm.com/
-[docker]:https://www.docker.com/
-[latex]:https://www.tug.org/begin.html
-[postgres]:https://www.postgresql.org/
-[postman]:https://www.postman.com/
-[spring]:https://spring.io/
-[vue]:https://vuejs.org/
-[react]:https://reactjs.org/
-[django]:https://www.djangoproject.com/
-[redis]:https://redis.io/
-[celery]:https://docs.celeryq.dev/en/stable/getting-started/introduction.html
-[numpy]:https://numpy.org/
-[pandas]:https://pandas.pydata.org/
-
-[vs]:https://visualstudio.microsoft.com/
-[vs-code]:https://code.visualstudio.com/
-[clion]:https://www.jetbrains.com/clion/
-[py-charm]:https://www.jetbrains.com/ru-ru/pycharm/
-[webstorm]:https://www.jetbrains.com/webstorm/
+[telegram]:https://telegram.me/i1_zolin
 [email]:mailto:<zolin.work@yandex.ru>
-<!--:
-**IMZolin/IMZolin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
- 
-
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-
-- 😄 Pronouns: ...
-- 🙌
--->
