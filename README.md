@@ -1,27 +1,36 @@
-# Hi there 👋 My name is Ivan
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/i1_zolin)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ivan-zolin/)
+# Hi there 👋 My name is Ivan Zolin
+
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/zolin_work)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ivan-zolin)
 ![](https://komarev.com/ghpvc/?username=IMZolin&color=green)
+
 ## About me
 
-- ML researcher with 2+ years in CV/NLP research.
-- Bachelor's in Applied Math & CS (SPbSTU); currently pursuing a Master's in Deep Learning & Generative AI (ITMO).
-- Researcher at SPbSTU's Biomedical Image & Data Analysis Lab with 3+ ML/DL projects.
-- Seeking collaboration with R&D teams, startups, labs, and universities.
-- [My CV](cv.pdf), [Russian version](cv_ru.pdf).
+- ML/AI Research Engineer
+- Currently: NLP R&D Engineer at Digital Public Health Technologies (DPHT), ITMO University.
+- Interests: Fundamental AI, LLMs, VLMs, NLP, Computer Vision, AI Agents, RAG, Optimization, Representation Learning, AI Alignment
 
-## SKills
+ML/AI Research Engineer working at the intersection of fundamental machine learning, LLMs/VLMs, NLP, and computer vision. Interested in new architectures, training methods, optimization, and AI systems.
 
-- `Programming languages`: Python, C, C++, JavaScript, SQL, LaTex (Tex).
-- `Tools and libs`: OpenCV, PyTorch, NLTK, Scikit-learn, Numpy, Pandas, Beautiful Soup, Docker, PostgreSQL, Redis, Celery, Aiogram, Django, FastAPI, ReactJS.
 
-____
+## Skills
 
-## GitHub stats
-<div display="inline-flex" align-items="center" justify-content="space-between">
-<img src="https://github-readme-stats.vercel.app/api?username=IMZolin&show_icons=true&bg_color=151515&title_color=fff&text_color=ffffff&icon_color=0b92f8&border_color=0b92f8&border_radius=30&count_private=true&locale=en&include_all_commits=true" width="47%"alt="IMZolin" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IMZolin&layout=compact&bg_color=151515&title_color=fff&text_color=ffffff&icon_color=0b92f8&border_color=0b92f8&border_radius=30&hide=tex,html&exclude_repo=imzolin.github.io,Attribute-grammars,simple_psf_extractor,Interval-analysis,Computer-graphics"/>
-</div>
+- **Languages**: Python, C, C++, SQL, MATLAB, JavaScript, Java, LaTeX
+- **AI/ML**: Machine Learning, Deep Learning, Computer Vision, NLP, LLM, RAG, Multi-Agent Systems, RL, AutoML
+- **Frameworks**: PyTorch, JAX, TensorFlow, OpenCV, ONNX, LangChain, LangGraph, scikit-learn, Ultralytics, pandas, NumPy, NLTK
+- **Data**: PostgreSQL
+- **MLOps**: Docker, FastAPI, Django, ReactJS, Redis, Kafka, Celery, S3, Prometheus, Grafana, ELK, CI/CD, Microservices, GPU/CUDA
+- **Core CS**: Statistics, Probability Theory, Calculus, Linear Algebra, Optimization, Discrete Mathematics, Algorithms and Data Structures, Parallel Computing
+- **Tools**: Git, Bash
 
-[telegram]:https://telegram.me/i1_zolin
-[email]:mailto:<zolin.work@yandex.ru>
+## Selected Projects
+
+- [MAS-EHR](https://annadphtitmo.github.io/MAS_EHR_presentation/) — MAS-EHR: a multi-agent system for automated processing of electronic health records, covering OCR, de-identification, and structuring/extraction of clinical information.
+- [NeuroRAG](https://github.com/Biomed-imaging-lab/NeuroRAG) — NeuroRAG: multi-agent LLM + RAG assistant for neurobiological and medical question answering over PubMed, NCBI and arXiv, combining Reciprocal Rank Fusion, LLM-based reranking and contextual compression with validated ensemble generation across several LLMs.
+- [TriDeFusion](https://github.com/Biomed-imaging-lab/TriDeFusion) — TriDeFusion (v1): 3D fluorescence-microscopy denoising algorithm combining Noise2Noise and Non-local Means; up to 54% RMSE reduction and 20% PSNR increase on synthetic data vs N2N-UNet (IEEE SIBIRCON 2024).
+- [FRT](https://github.com/IMZolin/frt-web) — Developed a web-based system for processing 3D microscopy images using ML and DL methods (FastAPI, Celery, Redis, S3, React, Docker).
+
+## Contact
+
+- Email: [zolin_im@outlook.com](mailto:zolin_im@outlook.com)
+- [LinkedIn](https://www.linkedin.com/in/ivan-zolin) &middot; [GitHub](https://github.com/IMZolin) &middot; [Google Scholar](https://scholar.google.com/citations?user=JWYh92gAAAAJ&view_op)
