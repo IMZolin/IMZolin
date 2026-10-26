@@ -6,29 +6,34 @@
 
 ## About me
 
-- ML/AI Research Engineer
-- Currently: NLP R&D Engineer at Digital Public Health Technologies (DPHT), ITMO University.
-- Interests: Fundamental AI, LLMs, VLMs, NLP, Computer Vision, AI Agents, RAG, Optimization, Representation Learning, AI Alignment
+- Research Engineer
+- Currently: NLP R&D Engineer at Digital Public Health Technologies, ITMO University.
+- Interests: Multimodal Learning, Efficient ML, Multi-agent Systems, LLMs, RAG, Knowledge Graph, Semantic Alignment, Multimodal Representation Learning
 
-ML/AI Research Engineer working at the intersection of fundamental machine learning, LLMs/VLMs, NLP, and computer vision. Interested in new architectures, training methods, optimization, and AI systems.
+Research Engineer building machine learning systems across LLMs/NLP, computer vision, and multimodal learning, with a focus on efficient models, multi-agent systems, and adaptive architectures.
+4+ years of research and engineering experience, taking ML methods from experimentation and model training to optimization and production deployment, with international conference recognition and awards from research and innovation programs.
 
 
 ## Skills
 
-- **Languages**: Python, C, C++, SQL, MATLAB, JavaScript, Java, LaTeX
-- **AI/ML**: Machine Learning, Deep Learning, Computer Vision, NLP, LLM, RAG, Multi-Agent Systems, RL, AutoML
-- **Frameworks**: PyTorch, JAX, TensorFlow, OpenCV, ONNX, LangChain, LangGraph, scikit-learn, Ultralytics, pandas, NumPy, NLTK
-- **Data**: PostgreSQL
-- **MLOps**: Docker, FastAPI, Django, ReactJS, Redis, Kafka, Celery, S3, Prometheus, Grafana, ELK, CI/CD, Microservices, GPU/CUDA
-- **Core CS**: Statistics, Probability Theory, Calculus, Linear Algebra, Optimization, Discrete Mathematics, Algorithms and Data Structures, Parallel Computing
-- **Tools**: Git, Bash
+- **Main**: Python, C/C++, SQL, PyTorch, JAX
+- **Frameworks**: PyTorch, TensorFlow, JAX, ONNX, LangChain, LangGraph, CUDA, Docker
+- **AI/ML**: Machine Learning, Deep Learning, Generative AI, Multi-Modal Learning, Algorithms and Data Structures
+- **NLP**: NLP, LLM, RAG, Graph RAG, Multi-Agent Systems, RRF, BM25, HyDE, RAPTOR, Contextual Compression, LoRA, QLoRA, NLTK
+- **Computer Vision**: Computer Vision, OpenCV, Ultralytics
+- **Web & Data**: FastAPI, Django, ReactJS, PostgreSQL, Redis, Kafka, Celery, S3, Chroma, OpenRouter, Tavily, Streamlit
+- **MLOps**: Prometheus, Grafana, ELK, CI/CD, Microservices, Git, Bash
+- **Cloud**: Heroku
+- **Libraries**: scikit-learn, pandas, NumPy, AutoML, Transformers, SciPy, Pydantic
+- **Languages**: MATLAB, JavaScript, Java, Kotlin, LaTeX
+- **Core CS**: Statistics, Probability Theory, Calculus, Linear Algebra, Optimization, Discrete Mathematics, Parallel Computing
 
 ## Selected Projects
 
-- [MAS-EHR](https://annadphtitmo.github.io/MAS_EHR_presentation/) — MAS-EHR: a multi-agent system for automated processing of electronic health records, covering OCR, de-identification, and structuring/extraction of clinical information.
-- [NeuroRAG](https://github.com/Biomed-imaging-lab/NeuroRAG) — NeuroRAG: multi-agent LLM + RAG assistant for neurobiological and medical question answering over PubMed, NCBI and arXiv, combining Reciprocal Rank Fusion, LLM-based reranking and contextual compression with validated ensemble generation across several LLMs.
-- [TriDeFusion](https://github.com/Biomed-imaging-lab/TriDeFusion) — TriDeFusion (v1): 3D fluorescence-microscopy denoising algorithm combining Noise2Noise and Non-local Means; up to 54% RMSE reduction and 20% PSNR increase on synthetic data vs N2N-UNet (IEEE SIBIRCON 2024).
-- [FRT](https://github.com/IMZolin/frt-web) — Developed a web-based system for processing 3D microscopy images using ML and DL methods (FastAPI, Celery, Redis, S3, React, Docker).
+- [MAS-EHR](https://annadphtitmo.github.io/MAS_EHR_presentation/) — MAS-EHR: a multi-agent system turning heterogeneous medical documents into a structured patient record — a layout-aware OCR agent on Qwen3.5:9B fine-tuned with QLoRA over an in-house corpus of form templates, real clinical records and handwriting; a de-identification agent combining regular expressions, NER, an LLM and configured relations between entity pairs; and a structuring agent normalising symptoms, diagnoses, drugs, labs and procedures against SNOMED CT, ICD-10 and LOINC.
+- [NeuroRAG](https://github.com/Biomed-imaging-lab/NeuroRAG) — NeuroRAG: a multi-agent LLM and RAG system for neurobiological question answering, built as a LangGraph state machine that routes each query across a curated vector store, PubMed, arXiv and NCBI, expands it four ways, then filters by Reciprocal Rank Fusion, BM25 and LLM reranking before answering with three LLMs in parallel under grounding and relevance checks.
+- [TriDeFusion](https://github.com/Biomed-imaging-lab/TriDeFusion) — TriDeFusion (v1): 3D fluorescence-microscopy denoising algorithm combining Noise2Noise and Non-local Means; on real acquisitions it cut mean noise intensity by over 50% and noise variance by 33%.
+- [FRT](https://github.com/IMZolin/frt-web) — Web service for 3D microscopy image processing: a FastAPI backend serving the ML and DL models, Celery with Redis for long-running jobs, S3 for volume storage, and a React interface.
 
 ## Contact
 
