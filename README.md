@@ -1,6 +1,7 @@
 # Hi there 👋 My name is Ivan Zolin
 
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/zolin_work)
+[![Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=googlechrome&logoColor=white)](https://imzolin.github.io/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ivan-zolin)
 ![](https://komarev.com/ghpvc/?username=IMZolin&color=green)
 
